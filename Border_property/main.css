@@ -1,0 +1,27 @@
+div
+{
+    height: 200px;
+    width: 200px;
+    border: 1px solid plum;
+    border-radius: 100%;
+}
+
+img
+{
+    border: 10px double red ;
+}
+
+.pup1
+{
+    border: 5px dotted olive;
+}
+
+.pup2
+{
+    border: 2px solid gold ;
+}
+
+.pup3
+{
+    border: 6px solid lavender ;
+}
